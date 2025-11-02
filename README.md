@@ -1,2 +1,2 @@
 # School-of-Magic-s-Gradebook
-Develop a system to manage students’ grades
+Developes a system to manage students’ grades
